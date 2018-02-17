@@ -1,0 +1,15 @@
+{
+  "name": "mongoose-assist",
+  "version": "1.0.1",
+  "description": "Collection of mongoose helper functions to simplify usage of mongoose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toukir Ahmed Shuva",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.0.5",
+    "bcrypt-nodejs": "^0.0.3"
+  }
+}
